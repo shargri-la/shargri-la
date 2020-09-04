@@ -1,0 +1,16 @@
+autopep8==1.5.4
+cycler==0.10.0
+isort==5.4.2
+kiwisolver==1.2.0
+matplotlib==3.2.2
+numpy==1.19.0
+pandas==1.0.5
+pycodestyle==2.6.0
+pyparsing==2.4.7
+python-dateutil==2.8.1
+pytz==2020.1
+scipy==1.5.1
+seaborn==0.10.1
+six==1.15.0
+toml==0.10.1
+tqdm==4.47.0
